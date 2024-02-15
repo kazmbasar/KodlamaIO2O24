@@ -13,7 +13,7 @@ namespace Entities.DTOs
         public string CourseName { get; set; }
         public string CategoryName { get; set; }
         public string Description { get; set; }
-        public string InstruductorName { get; set; }
+        public string InstructorName { get; set; }
 
     }
 }

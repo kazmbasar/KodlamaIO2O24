@@ -28,7 +28,7 @@ namespace DataAccess.Concrete
                                  CourseId = c.Id,
                                  CourseName = c.Name,
                                  Description = c.Description,
-                                 InstruductorName = i.FirstName + " " + i.LastName
+                                 InstructorName = i.FirstName + " " + i.LastName
 
 
 
